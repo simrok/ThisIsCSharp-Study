@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\ThisIsCSharpStudy\ThisIsCSharpStudy\obj\Debug\net8.0\ThisIsCSharpStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\ThisIsCSharpStudy\ThisIsCSharpStudy\obj\Debug\net8.0\ThisIsCSharpStudy.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\ThisIsCSharpStudy\ThisIsCSharpStudy\obj\Debug\net8.0\ThisIsCSharpStudy.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\ThisIsCSharpStudy\ThisIsCSharpStudy\obj\Debug\net8.0\ThisIsCSharpStudy.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\ThisIsCSharpStudy\ThisIsCSharpStudy\obj\Debug\net8.0\ThisIsCSharpStudy.sourcelink.json
+C:\Users\lenovo\Desktop\ThisIsCSharpStudy\ThisIsCSharpStudy\bin\Debug\net8.0\ThisIsCSharpStudy.exe
+C:\Users\lenovo\Desktop\ThisIsCSharpStudy\ThisIsCSharpStudy\bin\Debug\net8.0\ThisIsCSharpStudy.deps.json
+C:\Users\lenovo\Desktop\ThisIsCSharpStudy\ThisIsCSharpStudy\bin\Debug\net8.0\ThisIsCSharpStudy.runtimeconfig.json
+C:\Users\lenovo\Desktop\ThisIsCSharpStudy\ThisIsCSharpStudy\bin\Debug\net8.0\ThisIsCSharpStudy.dll
+C:\Users\lenovo\Desktop\ThisIsCSharpStudy\ThisIsCSharpStudy\bin\Debug\net8.0\ThisIsCSharpStudy.pdb
+C:\Users\lenovo\Desktop\ThisIsCSharpStudy\ThisIsCSharpStudy\obj\Debug\net8.0\ThisIsCSharpStudy.dll
+C:\Users\lenovo\Desktop\ThisIsCSharpStudy\ThisIsCSharpStudy\obj\Debug\net8.0\refint\ThisIsCSharpStudy.dll
+C:\Users\lenovo\Desktop\ThisIsCSharpStudy\ThisIsCSharpStudy\obj\Debug\net8.0\ThisIsCSharpStudy.pdb
+C:\Users\lenovo\Desktop\ThisIsCSharpStudy\ThisIsCSharpStudy\obj\Debug\net8.0\ThisIsCSharpStudy.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\ThisIsCSharpStudy\ThisIsCSharpStudy\obj\Debug\net8.0\ref\ThisIsCSharpStudy.dll
